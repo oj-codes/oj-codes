@@ -27,7 +27,7 @@ I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC
 
 ## 🛠️ Toolbox
 
-**Cloud:** AWS · GCP · Azure 
+**Cloud:** AWS · GCP · Azure  
 **Infra:** Terraform · Helm · Kubernetes · Docker  
 **CI/CD:** GitHub Actions · ArgoCD · GitLab CI  
 **Obs.:** Grafana · Prometheus · OpenTelemetry  
