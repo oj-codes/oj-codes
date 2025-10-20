@@ -73,9 +73,9 @@ I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC
 
 ## 💬 Let’s connect
 
-- Website/Portfolio: **oj.codes**
-- Learn with O.J.: learnwithoj.com
-- LinkedIn: **linkedin.com/in/oliviajwilcox**
+- Website/Portfolio: **[oj.codes](https://www.oj.codes/)**
+- Learn with O.J.: **[LearnWithOJ.com](https://learnwithoj.com/)**
+- LinkedIn: **[linkedin.com/in/oliviajwilcox](https://www.linkedin.com/in/ojcodes/)**
 - Email: **[ojcodes@protonmail.com](mailto:ojcodes@protonmail.com)**
     
 
