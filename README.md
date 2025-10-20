@@ -1,4 +1,4 @@
-# Hi, I’m Olivia — SRE • Platform • Builder of calm systems
+# Hi, I’m O.J. — SRE • Educator • Builder of calm systems
 
 > I build reliable, scalable systems and the feedback loops that keep them healthy.
 
