@@ -17,7 +17,7 @@ I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC
 
 ## 💡 Recent highlights
 
-- Led a **multi‑region cloud migration** and improved deployment flow with CI/CD
+- Drove a **multi‑region cloud migration** and improved deployment flow with CI/CD
 - Built **actionable dashboards** that made latency & errors obvious to teams
 - Shipped **test automation** that increased confidence in releases
 
