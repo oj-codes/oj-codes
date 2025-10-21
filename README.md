@@ -94,7 +94,7 @@ I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC
 ### Fun
 
 - 🎧 Rock/metal drummer; I map rehearsal like load testing
-- 🌱 Microgreens hobbyist; freshness and feedback loops everywhere
+- 🌱 Hydroponics hobbyist; freshness and feedback loops everywhere
 - 🥾 Hiking; trips to Vermont for mountain views
     
 
