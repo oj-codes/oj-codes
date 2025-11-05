@@ -1,8 +1,8 @@
-# Hi, I’m O.J. — SRE • Educator • Builder of calm systems
+# Hi, I’m O.J. - SRE • Founder • Builder of calm systems
 
 > I build reliable, scalable systems and the feedback loops that keep them healthy.
 
-I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC, and automation meet: Terraform-driven environments, reusable CI/CD pipelines, and observability that turns signals into decisions. I mentor early‑career engineers and write about practical reliability. Currently open to senior SRE roles and selective consulting while I complete my B.S. in Computer Science.
+I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC, and automation meet with Terraform-driven environments, reusable CI/CD pipelines, and observability that turns signals into decisions. I mentor other engineers and write about practical reliability. Currently open to senior SRE contracts/selective consulting while I launch my edtech startup and complete my B.S. in Computer Science.
 
 ---
 
