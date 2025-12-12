@@ -72,10 +72,10 @@ I help mid-level engineers move to senior roles by focusing on system design, po
 
 ## 🎓 Education
 
-**B.S. in Computer Science (WGU)** starts Jan 1, 2026 • target graduation June 2026  
+**B.S. in Computer Science (WGU)** starts Mar 1, 2026 • target graduation Sept 2026  
 Focus on systems, distributed computing, platform engineering. Building public labs alongside coursework.
 
-**Next** OMSCS at Georgia Tech (targeting Spring 2027)
+**Next** OMSCS at Georgia Tech (targeting 2027)
 
 ---
 
