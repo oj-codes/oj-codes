@@ -1,105 +1,103 @@
-# Hi, I’m O.J. - SRE • Founder • Builder of calm systems
+# Hi, I'm O.J.
+### Senior SRE → Founder → Mentor
 
-> I build reliable, scalable systems and the feedback loops that keep them healthy.
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational) ![GCP](https://img.shields.io/badge/Cloud-GCP-informational) ![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet) ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey)
 
-I’m a Senior SRE / platform‑leaning engineer who thrives where software, IaC, and automation meet with Terraform-driven environments, reusable CI/CD pipelines, and observability that turns signals into decisions. I mentor other engineers and write about practical reliability. Currently open to senior SRE contracts/selective consulting while I launch my edtech startup and complete my B.S. in Computer Science.
+I build reliable systems and teach other people how to build them. Currently jumping from building platforms to building the platform that teaches people how to build platforms. Meta.
 
----
+I'm working toward my dream of a **free-to-access Khan Academy for adults in technology**. Senior-level knowledge shouldn't cost $15k or hide behind gatekeeping technical writing. I mentor mid-level engineers leveling up to senior roles and write practical reliability guides.
 
-## 🔧 Today I’m working on
-
-- **Platform reliability:** containerized app platforms, golden paths, and paved‑road tooling
-- **Observability:** SLO‑minded dashboards/alerts that reduce blind spots and shorten MTTR
-- **Infra as Code:** modular Terraform, GitOps flows, and guardrails that scale with teams
-- **Learning/teaching:** building study labs and mentoring new engineers entering SRE
+**Right now** I'm open to senior SWE/SRE contracts while launching my edtech startup and finishing my CS degree.
 
 ---
 
-## 💡 Recent highlights
+## 🚀 What I'm building
 
-- Drove a **multi‑region cloud migration** and improved deployment flow with CI/CD
-- Built **actionable dashboards** that made latency & errors obvious to teams
-- Shipped **test automation** that increased confidence in releases
+**[Learn with O.J.](https://learnwithoj.com)**  
+Tech education that doesn't waste your time. Clear explanations, hands-on labs, real mentoring. No fluff.
 
-> Ask me about: pragmatic reliability, software engineering, platform engineering, and helping juniors level up.
+**[MathBliss](https://github.com/yourusername/mathbliss)**  
+Math for adults who want to actually understand the concepts we pretended to know in college.
 
----
-
-## 🛠️ Toolbox
-
-**Cloud:** AWS · GCP · Azure  
-**Infra:** Terraform · Helm · Kubernetes · Docker  
-**CI/CD:** GitHub Actions · ArgoCD · GitLab CI  
-**Obs.:** Grafana · Prometheus · OpenTelemetry  
-**Langs:** Python · Go · Bash · TypeScript · NodeJS
-**DX/Testing:** Playwright · pytest · k6 · Make · pre-commit
-
-> I’m cloud‑agnostic with a preference for AWS and GCP.
+**Also working on**
+- Platform reliability (containerized apps, golden paths, paved-road tooling)
+- Observability systems (SLO-minded dashboards that cut MTTR)  
+- IaC modules (Terraform patterns and GitOps that scale)
+- Study labs (public materials for engineers entering SRE)
 
 ---
 
-## 📚 Writing & talks
+## 💡 Recent work
 
-- **Learn with O.J.** , recently launched tech education project focused on clear, practical explanations, hands‑on labs, and mentoring. _Mission:_ “**Make technology accessible, one clear explanation at a time.**” (learnwithoj.com)
-- Practical reliability notes and study labs at **learnwithoj.com**
-- LinkedIn posts about SRE, platform engineering, and career runway
-    
+- Multi-region cloud migration that didn't wake anyone up at 3am (the real measure of success)
+- Dashboards that made latency and errors obvious before they became incidents
+- Test automation that increased release confidence and decreased Slack panic
+- SRE Study Map with spiral learning (cramming doesn't work for distributed systems)
+
+**Ask me about** pragmatic reliability, platform engineering, observability that helps, or mentoring engineers from mid to senior level.
+
+---
+
+## 🛠️ Tools I use
+
+**Cloud** AWS • GCP • Azure  
+**Infra** Terraform • Helm • Kubernetes • Docker  
+**CI/CD** GitHub Actions • ArgoCD • GitLab CI  
+**Observability** Grafana • Prometheus • OpenTelemetry  
+**Languages** Python • Go • Bash • TypeScript • Node.js  
+**Testing** Playwright • pytest • k6 • Make • pre-commit
+
+Cloud-agnostic with a preference for AWS and GCP.
+
+---
+
+## 📚 Writing & teaching
+
+- **[Learn with O.J.](https://learnwithoj.com)** for practical tech education
+- **[MathBliss](https://github.com/yourusername/mathbliss)** for math foundations
+- **Reliability guides** at learnwithoj.com
+- **LinkedIn posts** about SRE, platform engineering, and career growth
 
 ---
 
 ## 🤝 Mentoring
 
-- Volunteer mentor (CodingCoach, Girls Who Code)
-- Interests: inclusive pathways into tech, first SRE roles, portfolio projects
+Volunteer mentor through **CodingCoach** and **Girls Who Code**.
 
-> If you’re an early‑career engineer, DM me with what you’re building.
+I help mid-level engineers move to senior roles by focusing on system design, portfolio projects that impress, and building confidence.
 
----
-
-## 🎓 Education & current study
-
-- **B.S. in Computer Science (WGU)**, starts **Jan 1, 2026**; target graduation **June 2026**
-- Focus areas: systems, distributed computing, platform engineering; building public labs alongside coursework    
-- Next academic milestone: **OMSCS (Georgia Tech) target Spring 2027**
+**If you're working toward senior** DM me what you're building. I probably have a lab or resource that helps.
 
 ---
 
-## 🗺️ What’s next
+## 🎓 Education
 
-- Publishing an **SRE Study Map** with spiral learning and hands‑on labs
-- Capstone project on distributed systems and resiliency (chaos) engineering
+**B.S. in Computer Science (WGU)** starts Jan 1, 2026 • target graduation June 2026  
+Focus on systems, distributed computing, platform engineering. Building public labs alongside coursework.
 
----
-
-## 💬 Let’s connect
-
-- Website/Portfolio: **[oj.codes](https://www.oj.codes/)**
-- Learn with O.J.: **[LearnWithOJ.com](https://learnwithoj.com/)**
-- LinkedIn: **[linkedin.com/in/oliviajwilcox](https://www.linkedin.com/in/ojcodes/)**
-- Email: **[ojcodes@protonmail.com](mailto:ojcodes@protonmail.com)**
-    
+**Next** OMSCS at Georgia Tech (targeting Spring 2027)
 
 ---
 
-### Badges
+## 🗺️ What's next
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational)  
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational)  
-![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)  
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue)  
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey)
+- Publishing comprehensive **SRE Study Map** with hands-on labs
+- Capstone project on distributed systems and chaos engineering
+- Expanding Learn with O.J. into a full learning platform
 
 ---
 
-### Fun
+## 💬 Connect
 
-- 🎧 Rock/metal drummer; I map rehearsal like load testing
-- 🌱 Hydroponics hobbyist; freshness and feedback loops everywhere
-- 🥾 Hiking; trips to Vermont for mountain views
-    
+**Website** [oj.codes](https://www.oj.codes/)  
+**Learn with O.J.** [LearnWithOJ.com](https://learnwithoj.com/)  
+**LinkedIn** [linkedin.com/in/learnwithoj](https://www.linkedin.com/in/learnwithoj/)  
+**Email** [oj@learnwithoj.com](mailto:oj@learnwithoj.com)
 
 ---
 
-#### Footnotes
+### Beyond the terminal
 
-> This README intentionally prioritizes clarity over buzzwords, spotlights outcomes over tools, and invites conversation over credentials.
+🥁 Rock/metal drummer. I map rehearsal like load testing.  
+🌱 Hydroponics hobbyist. Turns out plants need observability too.  
+🥾 Hiking in Vermont to clear the mental cache.
