@@ -5,7 +5,7 @@
 
 I build reliable systems and teach other people how to build them. Currently jumping from building platforms to building the platform that teaches people how to build platforms. Meta.
 
-I'm working toward my dream of a **free-to-access Khan Academy for adults in technology**. Senior-level knowledge shouldn't cost $15k or hide behind gatekeeping technical writing. I mentor mid-level engineers leveling up to senior roles and write practical reliability guides.
+I'm working toward my dream of a **interactive Khan Academy for adults in technology**. Senior-level knowledge shouldn't cost $15k or hide behind gatekeeping technical writing. I mentor mid-level engineers leveling up to senior roles and write practical reliability guides.
 
 **Right now** I'm open to senior SWE/SRE contracts while launching my edtech startup and finishing my CS degree.
 
