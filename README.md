@@ -16,8 +16,11 @@ I'm working toward my dream of a **interactive Khan Academy for adults in techno
 **[Learn with O.J.](https://learnwithoj.com)**  
 Tech education that doesn't waste your time. Clear explanations, hands-on labs, real mentoring. No fluff.
 
-**[MathBliss](https://github.com/yourusername/mathbliss)**  
+**[MathBliss](https://mathbliss.com)**  
 Math for adults who want to actually understand the concepts we pretended to know in college.
+
+**[#TechTuesdays](https://github.com/oj-codes/techtuesday)**  
+DevOps and SRE guides for people who'd rather build the thing than read about building the thing.
 
 **Also working on**
 - Platform reliability (containerized apps, golden paths, paved-road tooling)
